@@ -1,2 +1,0 @@
-DEBUG = True
-MY_API_KEY = "b44b2edecf4748de95c8180a73960c41"
