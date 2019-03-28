@@ -3,6 +3,8 @@ Hello,This is a mini project about database operation,for example: quiring and s
 
 ## 6 api
 
+External address: http://35.246.0.64/
+
 /quire --- Quire all users --- GET
 
 /quire/(name) --- Quire user by name --- GET
@@ -31,3 +33,5 @@ curl -X "DELETE" http://localhost:5000/delete/bobo
 3.in instance/ ，I added the.gitignore file here, because there is sensitive data in this folder, so I did not upload it to github.
 
 4.kubectl scale deployment hello-web --replicas=N , use this command to scaling up my application.
+
+
