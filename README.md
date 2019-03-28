@@ -5,11 +5,11 @@ Hello,This is a mini project about database operation,for example: quiring and s
 
 /quire --- Quire all users --- GET
 
-/quire/<name> --- Quire user by name --- GET
+/quire/(name) --- Quire user by name --- GET
 
 /add_user --- Add user --- POST
 
-/delete/<deletename> --- Delete user by name --- DELETE
+/delete/(deletename) --- Delete user by name --- DELETE
 
 /quireweather --- Get weather information in Datatabase --- GET
 
